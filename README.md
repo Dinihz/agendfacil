@@ -1,6 +1,6 @@
 # AgendFácil - Sistema de Reserva de Salas
 
-Este é um projeto full-stack de um sistema de reserva de salas de reunião, desenvolvido como parte do desafio técnico da BPTech. O objetivo é criar uma solução funcional que permita o gerenciamento de reservas, com persistência de dados, autenticação segura e uma interface intuitiva.
+Este é um projeto full-stack de um sistema de reserva de salas de reunião. O objetivo é criar uma solução funcional que permita o gerenciamento de reservas, com persistência de dados, autenticação segura e uma interface intuitiva.
 
 ## Tecnologias Utilizadas
 
@@ -38,8 +38,8 @@ Antes de começar, garanta que você tenha as seguintes ferramentas instaladas:
 1.  **Clone o Repositório**
 
     ```bash
-    git clone https://github.com/Dinihz/bptech-test.git
-    cd bptech-test
+    git clone https://github.com/Dinihz/agendfacil.git
+    cd agendfacil
     ```
 
 2.  **Instale as Dependências**
